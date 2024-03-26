@@ -9,7 +9,7 @@
 </head>
 <body>
     <selection class="conteudo-principal"></selection>
-    <h2 class="titulo principal"> Meus objasdasdasdasdadasdadsxsaxacetivos do ano_</h2>
+    <h2 class="titulo principal"> Meus objetivos do ano_</h2>
     <div>
     <button class="botao">Cursos da alura</button>
     <button class="botao">Criar projetos em Java Script</button>
